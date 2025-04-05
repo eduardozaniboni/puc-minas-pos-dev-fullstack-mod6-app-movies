@@ -4,6 +4,9 @@
 
 ### Aplicação de Filmes
 
+Está aplicação foi feita junto com o módulo 6 referente ao React da pós graduação em Desenvolvimento Full Stack oferecida pela PUC Minas. 
+Neste módulo, você aprende alguns conceitos do React, como por exemplo:
+
 -   Aplicação SPA
 -   Integração com API Externa
 -   Tratamento de Dados da API
